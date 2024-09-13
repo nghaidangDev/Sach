@@ -1,0 +1,14 @@
+E:\Học\C#\QuanLySach\QuanLySach\bin\Debug\net8.0\QuanLySach.exe
+E:\Học\C#\QuanLySach\QuanLySach\bin\Debug\net8.0\QuanLySach.deps.json
+E:\Học\C#\QuanLySach\QuanLySach\bin\Debug\net8.0\QuanLySach.runtimeconfig.json
+E:\Học\C#\QuanLySach\QuanLySach\bin\Debug\net8.0\QuanLySach.dll
+E:\Học\C#\QuanLySach\QuanLySach\bin\Debug\net8.0\QuanLySach.pdb
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.AssemblyInfoInputs.cache
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.AssemblyInfo.cs
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.csproj.CoreCompileInputs.cache
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.dll
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\refint\QuanLySach.dll
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.pdb
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\QuanLySach.genruntimeconfig.cache
+E:\Học\C#\QuanLySach\QuanLySach\obj\Debug\net8.0\ref\QuanLySach.dll
